@@ -389,7 +389,7 @@ Anda adalah distributor ternama di bidang jual-beli _die cast_ (miniatur moda tr
 dengan 7 kantor cabang tersebar di beberapa negara dunia. Disediakan database
 yang menyimpan berbagai data terkait usaha Anda, mulai dari daftar customer, karyawan, produk hingga transaksi yang dilakukan. 
 
-Unduh database __.sql__ di repo ini ([_**/database/retrowheels.sql**_](/database)) dan import ke local MySQL server Anda. Tata cara import database juga tercantum di folder: ([_**/database**_](/database)). Kemudian selesaikan soal-soal berikut. Anda __dilarang keras__ mengubah struktur & format tabel serta database yang telah disediakan.
+Anda __dilarang keras__ mengubah struktur & format tabel serta database yang telah disediakan.
 
 1. Rumuskan _single query_ untuk menampilkan jumlah __total customer__ yang Anda layani, beserta jumlah __total kota & negara asal__ customer-customer Anda. Contoh output yang diharapkan:
 
