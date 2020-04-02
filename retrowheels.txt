@@ -23,9 +23,3 @@ from customers, products, orderdetails, orders, payments
 where customers.customernumber = payments.customernumber and products.productcode = orderdetails.productcode
 and payments.customernumber = orders.customernumber and orders.ordernumber = orderdetails.ordernumber
 and payments.paymentdate = '2003-06-05' and payments.amount = 14571.44;
-
-
-(customernumber) = customers, orders, payments
-(officecode) = employees, offices
-(ordernumber) = orderdetails, orders
-(productcode) = orderdetails, products
