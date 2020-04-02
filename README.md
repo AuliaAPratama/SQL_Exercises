@@ -206,7 +206,7 @@ MySQL secara default menyertakan database ```world``` yang dapat digunakan oleh 
     +--------------------+-----------------+------------+-------------------+------------------+
     ```
 
-    ✅ _Lampiran jawaban berupa daftar query MySQL dalam bentuk file world__.txt__ yang sudah diupload_
+    ✅ Lampiran jawaban berupa daftar query MySQL dalam bentuk file world.txt yang sudah diupload
 
 #
 
@@ -377,7 +377,7 @@ MySQL secara default menyertakan database ```sakila``` yang dapat digunakan oleh
     +--------------------+----------+
     ```
 
-    ✅ _Lampiran jawaban berupa daftar query MySQL dalam bentuk file sakila__.txt__ yang sudah diupload_
+    ✅ Lampiran jawaban berupa daftar query MySQL dalam bentuk file sakila.txt yang sudah diupload
 
 #
 
@@ -466,6 +466,6 @@ total harga yang dibeli sesuai dengan data pembayaran masuk. Output yang diharap
 
     Jika Anda cek jumlah total dari ```quantityOrdered``` dikali ```priceEach``` dari tabel di atas, hasilnya __14571.44__. Dan transaksi pembayaran tersebut terjadi tepat pada tanggal __2003-06-05__.
 
-✅ _Lampiran jawaban berupa daftar query MySQL dalam bentuk file retrowheels__.txt__ yang sudah diupload_
+✅ Lampiran jawaban berupa daftar query MySQL dalam bentuk file retrowheels.txt yang sudah diupload
 
 #
